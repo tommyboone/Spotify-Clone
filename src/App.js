@@ -18,6 +18,10 @@ function App() {
       setToken(_token);
 
       spotify.setAccessToken(_token);
+
+      spotify.getMe().then((user) => {
+        console.log("Show user if exists", user);
+      });
     }
   }, []);
   return (
