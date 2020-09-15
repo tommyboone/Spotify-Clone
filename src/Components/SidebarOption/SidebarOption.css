@@ -1,7 +1,7 @@
 .sidebarOption {
   display: flex;
   align-items: center;
-  color: grey;
+  color: lightgray;
   height: 40px;
   cursor: pointer;
   transition: 200ms color ease-in;
