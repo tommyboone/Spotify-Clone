@@ -1,7 +1,7 @@
 # Spotify-Clone
   A clone of the spotify app. Built with React and Material UI. Hosted on Firebase
  
-# Link
+# Link to Firebase App
  https://bit.ly/3c1kza0
 
 # Note:
