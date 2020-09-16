@@ -8,4 +8,4 @@
 - Must have a spotify premium account for the player to work
 
 # Gif
-![]('https://media.giphy.com/media/llbBdjsaL0pr5iG90H/giphy.gif')
+![] ('https://media.giphy.com/media/llbBdjsaL0pr5iG90H/giphy.gif')
